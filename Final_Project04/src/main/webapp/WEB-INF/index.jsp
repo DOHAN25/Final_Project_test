@@ -9,7 +9,7 @@
 <body>
 
 <a> home </a>
-
+<h2>다른 수정사항</h2>
 
 </body>
 </html>
