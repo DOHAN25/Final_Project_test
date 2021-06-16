@@ -42,7 +42,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">주말농장</a>
                 </li>
-                <a class="d-none d-lg-block" href="#"><img src="${pageContext.request.contextPath}/resources/bootstrap-5.0.1-dist/assets/img/당근팜 로고.png"></a>
+                <a class="d-none d-lg-block" href="#"><img src="${pageContext.request.contextPath} /resources/bootstrap-5.0.1-dist/assets/img/당근팜 로고.png"></a>
                 <li class="nav-item">
                     <a class="nav-link" href="#">꿀팁</a>
                 </li>
@@ -82,7 +82,7 @@
                 </div>
                 <div class=" col-md-4">
                     <h4 class="text-uppercase mb-4">Developer</h4>
-                    <div class="dropdown">
+                    <div class="dropdown d-inline-block show">
                         <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
                             data-bs-toggle="dropdown" aria-expanded="false">
                             Developer
